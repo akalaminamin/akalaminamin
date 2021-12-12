@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Al Amin</h1>
-<h3 align="center">A passionate frontend and MERN Stack developer from Bangladesh. I am always available to be hired Now</h3>
+<h3 align="center">A passionate frontend and MERN Stack developer from Bangladesh.</h3>
 
 - 🔭 I’m currently learning **Advanced MERN Stack**
 
